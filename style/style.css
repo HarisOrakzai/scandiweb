@@ -20,9 +20,3 @@ body{
     padding-left: 50px !important;
     padding-top: 10px;
 }
-
-.form{
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0px;
-}
