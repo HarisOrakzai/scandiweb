@@ -1,0 +1,28 @@
+.dropbox{
+    display:none;
+}
+
+.col-form-label{
+    margin-bottom: 15px;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#footer{
+    margin-top: auto;
+}
+
+.form-check{
+    padding-left: 50px !important;
+    padding-top: 10px;
+}
+
+.form{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px;
+}
