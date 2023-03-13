@@ -45,7 +45,7 @@
                         </div>
                     </div>
 
-                    <div class="row mt-3">
+                    <div class="row mt-3 mb-4">
 
                             <?php while($row=mysqli_fetch_assoc($res1)): ?>
 
@@ -109,7 +109,6 @@
                             </div>
 
                             <?php endwhile;?>
-
                     
                     </div>
 
